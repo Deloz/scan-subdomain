@@ -4,6 +4,7 @@ scan subdomain with PHP
 A simple app for scanning subdomain
 
 Requirements
+----
  
   * PHP >= 5.2
 
